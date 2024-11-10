@@ -9,7 +9,7 @@ self.addEventListener('install', function(event) {
                 '/index.html',
                 '/index.js',
                 '/style.css',
-                '/download (1).png',
+                '/download(1).png'
             ]);
 
         })
